@@ -30,4 +30,4 @@ Assim que uma imagem é enviada, o **Amazon S3** armazena o arquivo e aciona uma
 
 ## 🧱 Arquitetura do Fluxo
 
-https://github.com/fontenelevitor/fluxo-instancias-aws/images
+[https://github.com/fontenelevitor/fluxo-instancias-aws/images](https://github.com/fontenelevitor/fluxo-instancias-aws/blob/main/images/fluxo%20lambda%20e%20s3.png)
